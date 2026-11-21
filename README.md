@@ -16,6 +16,7 @@ to `/output/entry.png` (1024×1024, under 1 MiB).
 python3 main.py
 ```
 
-Python 3.13, Pillow only. Deterministic (two runs produce byte-identical
+Python 3.13, pure standard library only (no Pillow — the grading sandbox
+has no PIL installed). Deterministic (two runs produce byte-identical
 output), no network, no input files. Fixed seed `20261121` drives every
 random choice.
