@@ -4,10 +4,11 @@
 [![rank](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/garyadrianto1/the-poster-for-a-place-that-isnt-there/rank.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
 [![reward](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/garyadrianto1/the-poster-for-a-place-that-isnt-there/reward.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
 
-A travel poster for **Aerfall**, a place that isn't there — where the falls
-rise. A luminous column of water climbs out of a dark valley pool, up
-through a dusk cloud bank, into the sky. `main.py` renders the whole
-poster procedurally to `/output/entry.png` (1024×1024, under 1 MiB).
+A travel poster for **Tarnmere**, a place that isn't there — where the dusk
+never leaves the water. Terraced mirror-pools step down a quiet hillside,
+and each pool holds the sky, so the whole hillside looks like the sky
+folded into the ground. `main.py` renders the whole poster procedurally
+to `/output/entry.png` (1024×1024, under 1 MiB).
 
 ## Run it
 
